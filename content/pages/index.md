@@ -1,5 +1,5 @@
 ---
-title: Home
+title: La Copa Mundial Sub-17 de la FIFA
 slug: /
 sections:
   - type: FeaturedItemsSection
