@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: ''
+      text: La Copa Mundial Sub-17 de la FIFA
       color: text-dark
       styles:
         self:
