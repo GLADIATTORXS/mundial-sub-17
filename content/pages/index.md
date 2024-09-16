@@ -48,7 +48,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/WC26_Logo.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
