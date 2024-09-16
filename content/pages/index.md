@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: La Copa Mundial Sub-17 de la FIFA
     items:
       - type: FeaturedItem
         title: 500k
